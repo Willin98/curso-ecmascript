@@ -1,0 +1,21 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Willin Fuentes <willin.fuentes@uptc.edu.co>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^18.13.0",
+    "node-fetch": "^3.3.0"
+  }
+}
